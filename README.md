@@ -17,4 +17,3 @@ simple banking system in C language
 
 ## Author
 Fateme Hadipour
-Najme Shamsadini
